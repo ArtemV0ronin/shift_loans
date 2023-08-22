@@ -13,6 +13,7 @@
 
 ## Используемый стек
 ![Static Badge](https://img.shields.io/badge/sklearn-red)
+![Static Badge](https://img.shields.io/badge/KNN-red)
 ![Static Badge](https://img.shields.io/badge/LogisticRegression-red)
 ![Static Badge](https://img.shields.io/badge/RandomForestClassifier-red)
 ![Static Badge](https://img.shields.io/badge/CatBoostClassifier-red)
